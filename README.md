@@ -16,14 +16,19 @@ O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um story
 
 
 > ### **Verificando os diferentes tipos de gastos realizados pelos Deputados.**
+```python
 
-            In [51]:df["desc_gasto"].unique() Deputados.Out[51 :array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
+
+df["desc_gasto"].unique() Deputados.
+array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
        'FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR',
        'MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR',
        'COMBUSTÍVEIS E LUBRIFICANTES.', 'PASSAGENS AÉREAS', 'TELEFONIA',
        'LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES',
        'SERVIÇOS POSTAIS',
        'CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS.',
+       
+ ```
        
 
 
