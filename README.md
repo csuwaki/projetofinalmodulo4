@@ -49,3 +49,5 @@ O objetivo dessse projeto foi criar um dashboard com o Tableau para exibir um st
 ### ***Olavo Pessôa*** 
  Estudante de Ciências Biológicas pela UENF e Ciências de Dados na Resilia Educação.
  [LinkedIn](https://www.linkedin.com/in/olavo-pess%C3%B4a/)
+=======
+
