@@ -19,7 +19,8 @@ O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um story
 ```python
 
 
-df["desc_gasto"].unique() Deputados.
+df["desc_gasto"].unique() 
+
 array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
        'FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR',
        'MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR',
