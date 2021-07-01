@@ -5,7 +5,7 @@ O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um story
  
  ### **Abaixo estão as ferramentas utilizadas no nosso projeto**
 
-<img src="ferramentas.png" width="650"/>
+<img src="https://github.com/csuwaki/projetofinalmodulo4/blob/main/imagens/ferramentas.png" width="650"/>
 
 * Pandas - análise e manipulação dos dados 
 * Colab - criação do nosso notebook
@@ -43,13 +43,13 @@ array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
 ---
 
  ### **Um pouco do nosso dashboard no Tableau**
-<img src="Tableau_image.jpeg" width="650"/>
+<img src="https://github.com/csuwaki/projetofinalmodulo4/blob/main/imagens/Tableau_image.jpeg" width="650"/>
 
 ---
 
  ### **Equipe do projeto** 
 
-<img src="equipe.png" width="650"/>
+<img src="https://github.com/csuwaki/projetofinalmodulo4/blob/main/imagens/equipe.png" width="650"/>
 
 ### ***Caroline Suwaki*** 
  Oceanógrafa, Mestranda em Oceonografia Biológica pela USP e estudante de Ciência de Dados na Resilia Educação. 
