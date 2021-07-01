@@ -6,7 +6,7 @@ O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um story
 ![](ferramentas.png) 
 
 * Pandas - análise e manipulação dos dados 
-* Colab - criação do nosso notbook
+* Colab - criação do nosso notebook
 * Tableau - criação e exibição de um dashboard com os nossos gráficos
 * Python - a linguagem usada durante todo o curso
 * Git & GitHub - para o versionamento dos dados e divulgação do projeto
@@ -28,7 +28,7 @@ O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um story
 
 
             ... e isso é só uma prévia dos tipos de gastos!
-> ### **Confira o nosso notbook com a análise completa no link abaixo**
+> ### **Confira o nosso notebook com a análise completa no link abaixo**
 
 * ## **[Notebook](https://github.com/csuwaki/projetofinalmodulo4/blob/main/notebook/cotaparlamentar.ipynb)**
 
