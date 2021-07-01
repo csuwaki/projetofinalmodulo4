@@ -1,4 +1,4 @@
-># **Projeto Final - Módulo 4**                    
+# **Projeto Final - Módulo 4**                    
 
 O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um storytelling com os dados. Escolhemos o dataset Gastos dos Deputados Federais para construir a nossa história, que contém o uso da cota CEAP (Cota de Exercício da Atividade Parlamentar) de 2009 a 2019.  A descrição de cada uma das colunas pode ser encontrada [no site da Câmara dos Deputados](https://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/explicacoes-sobre-o-formato-dos-arquivos-xml). 
 >  ### **Logo abaixo estão as ferramentas utilizadas no nosso projeto.**
@@ -13,9 +13,9 @@ O objetivo dessse projeto foi criar um dashboard no Tableau para exibir um story
 * Discord - muito usado para as nossas reuniões diárias 
 * Trello - para organizar o andamento do projeto através da metodologia Kanban 
 
+---
 
-
-> ### **Verificando os diferentes tipos de gastos realizados pelos Deputados.**
+ ### **Verificando os diferentes tipos de gastos realizados pelos Deputados.**
 ```python
 
 
@@ -31,17 +31,21 @@ array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
        
  ```
        
-
+---
 
             ... e isso é só uma prévia dos tipos de gastos!
-> ### **Confira o nosso notebook com a análise completa no link abaixo**
+### **Confira o nosso notebook com a análise completa no link abaixo**
 
 * ## **[Notebook](https://github.com/csuwaki/projetofinalmodulo4/blob/main/notebook/cotaparlamentar.ipynb)**
 
-> ### **Um pouco do nosso dashboard no Tableau**
+---
+
+ ### **Um pouco do nosso dashboard no Tableau**
 <img src="Tableau_image.jpeg" width="650"/>
 
-> ### **Equipe do projeto** 
+---
+
+ ### **Equipe do projeto** 
 
 <img src="equipe.png" width="650"/>
 
@@ -52,4 +56,11 @@ array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
 ### ***Olavo Pessôa*** 
  Estudante de Ciências Biológicas pela UENF e Ciências de Dados na Resilia Educação.
  [LinkedIn](https://www.linkedin.com/in/olavo-pess%C3%B4a/)
+ 
+ 
+---
+
+ Se gostou, nos incentive deixando uma :star: no nosso repositório!
+ 
+ Obrigada!
 
