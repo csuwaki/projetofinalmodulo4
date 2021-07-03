@@ -45,6 +45,9 @@ array(['DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.',
  ### **Um pouco do nosso dashboard no Tableau**
 <img src="https://github.com/csuwaki/projetofinalmodulo4/blob/main/imagens/Tableau_image.jpeg" width="650"/>
 
+
+Dashboard completo [aqui](https://public.tableau.com/app/profile/csuwaki/viz/cotaparlamentar/UsodaCEAPde2009a2019)!
+
 ---
 
  ### **Equipe do projeto** 
